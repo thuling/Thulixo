@@ -2,10 +2,14 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Thúlio+Gabriel+;I'm+18+years+old;I+from+Recife,+PE;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thulixo&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 
 👇
 - 🔭 I currently don't work
 - 🌱 I’m currently learning Front-End
 - 📫 Contact: thulioggomes@gmail.com
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
