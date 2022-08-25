@@ -7,7 +7,7 @@
 
 ### Infos 👇
 - 🔭 I currently don't work
-- 🌱 I’m currently learning Front-End
+- 🌱 I'm currently studying to be a Front-End Developer
 - 📫 Contact: thulioggomes@gmail.com
 
 ### Currently learning:
