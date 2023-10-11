@@ -32,10 +32,12 @@
 
 ###
 
+<p align="left"> <a href="https://twitter.com/thulinscr" target="blank"><img src="https://img.shields.io/twitter/follow/thulinscr?logo=twitter&style=for-the-badge" alt="thulinscr" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/thulinscr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thulinscr" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/th%c3%balio-gabriel-ads/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="th%c3%balio-gabriel-ads/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/thúlio-gabriel-ads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thúlio-gabriel-ads" height="30" width="40" /></a>
 <a href="https://instagram.com/thulingab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thulingab" height="30" width="40" /></a>
 </p>
 ###
