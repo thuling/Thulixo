@@ -32,16 +32,11 @@
 
 ###
 
-<h2 align="left">You can find me on:</h2>
-
-###
-
-<div align="left">
- <a href="https://www.linkedin.com/in/th%C3%BAlio-gabriel-ads/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
- </a> 
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/thulinscr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thulinscr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/th%c3%balio-gabriel-ads/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/th%c3%balio-gabriel-ads/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/thulingab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thulingab/" height="30" width="40" /></a>
+</p>
 
 ###
