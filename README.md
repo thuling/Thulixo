@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Thulio Gabriel, a Full-Stack Developer 🚀 from Brazil! I've always been a technology enthusiast, and I'm currently studying Analysis and Systems Development to stay at the forefront of this ever-evolving field. I'm passionate about staying updated with the latest advancements in the tech world.</p>
+<p align="left">I'm Thulio Gabriel, a Back-End Developer 🚀 from Brazil! I've always been a technology enthusiast, and I'm currently studying Analysis and Systems Development to stay at the forefront of this ever-evolving field. I'm passionate about staying updated with the latest advancements in the tech world.</p>
 
 ###
 
